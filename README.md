@@ -1,16 +1,16 @@
-## Hi there 👋
+### Bonjour, je suis Plamedi 👋
 
-<!--
-**kimva-plamedi/Kimva-plamedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Développeur en formation, passionné par le développement logiciel, les systèmes et les réseaux informatiques.
 
-Here are some ideas to get you started:
+- 🔭 **En ce moment :** Je suis le cursus **Harvard CS50x** et je développe mes projets en **C**, **Python** et **Web (HTML/CSS/JS)**.
+- 🌱 **Objectifs :** Maîtriser l'architecture réseau (Cisco), l'administration Linux et le développement Full Stack.
+- 📫 **Me contacter :** kimvaplamedi@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Compétences techniques
+
+- **Langages :** C, C++, Python, JavaScript, TypeScript, PHP, SQL
+- **Web & Frameworks :** HTML5, CSS3, Angular
+- **Réseaux & Systèmes :** TCP/IP, Modèle OSI, Cisco Packet Tracer, Linux, Git & GitHub
+
